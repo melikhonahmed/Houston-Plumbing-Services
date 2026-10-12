@@ -1,0 +1,6 @@
+{
+  "name": "Houston Plumbing Services",
+  "description": "Houston's trusted local plumber offering residential & commercial plumbing, 24/7 emergency service, tankless water heaters, and advanced sewer and slab repairs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
